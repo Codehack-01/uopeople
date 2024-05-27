@@ -1,0 +1,9 @@
+export {default as Home} from './Home';
+export {default as Courses} from './Courses';
+export {default as Story} from './Story';
+export {default as Payments} from './Payments';
+export {default as Achievements} from './Achievements';
+export {default as Services} from './Services';
+export {default as Admission} from './Admission';
+export {default as UsefulLinks} from './UsefulLinks';
+export {default as Campus} from './Campus';
